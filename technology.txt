@@ -1,0 +1,4 @@
+Lập trình Front-end: Vue JS, Angular
+Lập trình Back-end: NodeJS, SpringBoot
+Noti database, AI: RestAPI, Redis, Firebase
+Design: Figma, Photoshop

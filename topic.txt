@@ -1,0 +1,14 @@
+2. Acedemic blog
+
+- Actors
++ Students:
+. Write, comment, post, like blogs, follow/report users
+
++ Teachers
+. Approve posts, give awards
+
++ Admins
+. Create tags, categories, manage users
+
++ System Handler
+. Notify users about likes, awards, followed posts
